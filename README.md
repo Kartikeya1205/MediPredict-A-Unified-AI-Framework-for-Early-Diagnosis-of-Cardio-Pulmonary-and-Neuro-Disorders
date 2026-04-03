@@ -1,0 +1,2 @@
+# MediPredict-A-Unified-AI-Framework-for-Early-Diagnosis-of-Cardio-Pulmonary-and-Neuro-Disorders
+It is an intelligent web-based disease prediction system designed to assist healthcare professionals and patients in identifying potential Heart, Lung, and Brain disorders using machine learning models.It provides an easy to use interface where users can input key health parameters, and the system predicts the disease occurrence with high accuracy.
